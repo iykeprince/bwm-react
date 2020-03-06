@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< master
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "node-sass-chokidar": "^1.4.0",
     "npm-run-all": "^4.1.2",
     "popper.js": "^1.14.3",
+=======
+    "express": "^4.17.1",
+>>>>>>> local
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",
